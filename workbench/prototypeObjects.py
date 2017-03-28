@@ -9,7 +9,7 @@ from geosolver import GeometricDecomposition
 import delaunay._qhull as qhull
 import delaunay.core as dcore
 from geosolver.matfunc import Vec
-import numpy.numarray as Numeric
+import numpy as Numeric
 
 try:
     from OpenGL.GL import *

@@ -1,7 +1,7 @@
 # no more nasty rounding with integer divisions
 from __future__ import division
 #import Numeric
-import numpy.numarray as Numeric
+import numpy as Numeric
 from includes import *
 from geosolver.matfunc import Vec
 from quaternion import *

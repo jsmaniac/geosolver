@@ -1,5 +1,5 @@
 from includes import *
-import numpy.numarray as Numeric
+import numpy as Numeric
 from geosolver.matfunc import Vec
 
 class Quaternion:
