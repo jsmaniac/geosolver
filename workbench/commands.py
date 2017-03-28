@@ -1,6 +1,6 @@
 from includes import *
 from geosolver.matfunc import Vec
-from LinearAlgebra import *
+from numpy.linalg import *
 from camera import CameraType
 from prototypeObjects import PrototypeManager
 
